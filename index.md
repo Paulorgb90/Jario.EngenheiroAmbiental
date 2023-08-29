@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-<img scr="assets/logo ferragens.jpg" />
+![](assets/logo ferragens.jpg)
