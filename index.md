@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-![](assets/logo ferragens.jpg)
+![](assets/jario.png)
